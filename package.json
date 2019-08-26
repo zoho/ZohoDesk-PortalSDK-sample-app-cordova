@@ -13,7 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "dependencies": {
-    "cordova-plugin-zohodesk-portal": "file:../../WorkSpaceGIT/cordova-plugin-zohodesk-portal"
+    "cordova-plugin-zohodesk-portal": "^0.2.0"
   },
   "cordova": {
     "plugins": {

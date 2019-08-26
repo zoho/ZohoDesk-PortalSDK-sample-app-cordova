@@ -9,8 +9,8 @@
   },
   "cordova-plugin-zohodesk-portal": {
     "source": {
-      "type": "local",
-      "path": "/Users/vignesh-zt132/Documents/cordovaSamples/DeskExampleApp/node_modules/cordova-plugin-zohodesk-portal"
+      "type": "registry",
+      "id": "cordova-plugin-zohodesk-portal"
     },
     "is_top_level": true,
     "variables": {}
